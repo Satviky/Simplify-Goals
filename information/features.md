@@ -9,9 +9,9 @@ This page is going to feature all current and upcoming
 
 2. TapPad
 
-Status: Audio hunt is going on; logic ready
+    Status: Audio hunt is going on; logic ready
 
-play soft tunes; relax your mind
+    play soft tunes; relax your mind
 
 3. Amoeba-shaped button in homescreen [irregular]
 
@@ -22,5 +22,5 @@ play soft tunes; relax your mind
 ## just thoughts:
 1. Mood tracking (optional) tied to each goal check-in
 
-chances are low if i can make it or not.
+    chances are low if i can make it or not.
 
