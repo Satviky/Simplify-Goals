@@ -26,9 +26,11 @@ There feelings are respected at all, they aren't respected at all.
 
 -> First initialized on March, 2025, By Satviky
 
--> Work process started on June 24 after first beta launch of Chromogram[^1]
+-> Development work started in early April, and is still going on
 
--> Repository and documentation started on July 14, after revamp of Chromogram.
+-> Documentation writing[the markdown pages] started on June 24 after first beta launch of Chromogram[^1]
+
+-> Repository was made on July 14, after revamp of Chromogram.
 
 
 [^1]: [click here to read the repository](https://github.com/Satviky/Chromogram)
