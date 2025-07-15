@@ -5,7 +5,7 @@ Safe Space for Neurodivergent Minds
 
 
 ## Vision:
-My vision behind making this is really kind and genuine.
+My vision behind making this is really kind and genuine. I want to make a app which will be helping neurodivergent minds to feel comfortable and help them reach their goals.
 
 ## Problem
 Neurodivergent minds, one of the most creative mind... but how are they treated? 
