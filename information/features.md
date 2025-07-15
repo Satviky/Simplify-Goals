@@ -11,3 +11,12 @@ play soft tunes; relax your mind
 
 3. Amoeba-shaped button in homescreen [irregular]
 
+4. Soft UI/UX — possibly no charts or hardcore graphs
+
+
+
+## just thoughts:
+1. Mood tracking (optional) tied to each goal check-in
+
+chances are low if i can make it or not.
+
