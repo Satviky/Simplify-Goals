@@ -9,3 +9,5 @@ main function is ready... need to gamify it so ADHD and other neuro mind get's a
 Status: Audio hunt is going on; logic ready
 play soft tunes; relax your mind
 
+3. Amoeba-shaped button in homescreen [irregular]
+
